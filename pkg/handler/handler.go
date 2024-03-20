@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"github.com/IsThatASkyline/wb_l0/pkg/service"
 	"github.com/gin-gonic/gin"
+	"github.com/mishep2/wb_l0/pkg/service"
 )
 
 type Handler struct {

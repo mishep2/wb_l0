@@ -2,8 +2,8 @@ package postgres
 
 import (
 	"errors"
-	"github.com/IsThatASkyline/wb_l0/models"
 	"github.com/jmoiron/sqlx"
+	"github.com/mishep2/wb_l0/models"
 	"log"
 )
 

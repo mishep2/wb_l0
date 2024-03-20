@@ -2,7 +2,7 @@ package cache
 
 import (
 	"errors"
-	"github.com/IsThatASkyline/wb_l0/models"
+	"github.com/mishep2/wb_l0/models"
 	"sync"
 )
 

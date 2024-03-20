@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"github.com/IsThatASkyline/wb_l0/models"
-	"github.com/IsThatASkyline/wb_l0/pkg/repository/cache"
+	"github.com/mishep2/wb_l0/models"
+	"github.com/mishep2/wb_l0/pkg/repository/cache"
 )
 
 type OrderCache struct {

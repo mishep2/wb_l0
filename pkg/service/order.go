@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/IsThatASkyline/wb_l0/models"
-	"github.com/IsThatASkyline/wb_l0/pkg/repository"
+	"github.com/mishep2/wb_l0/models"
+	"github.com/mishep2/wb_l0/pkg/repository"
 )
 
 type OrderService struct {

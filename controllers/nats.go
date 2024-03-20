@@ -3,10 +3,10 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/IsThatASkyline/wb_l0/models"
-	"github.com/IsThatASkyline/wb_l0/pkg/repository/cache"
-	"github.com/IsThatASkyline/wb_l0/pkg/repository/postgres"
 	"github.com/jmoiron/sqlx"
+	"github.com/mishep2/wb_l0/models"
+	"github.com/mishep2/wb_l0/pkg/repository/cache"
+	"github.com/mishep2/wb_l0/pkg/repository/postgres"
 	"github.com/nats-io/stan.go"
 	"log"
 )
